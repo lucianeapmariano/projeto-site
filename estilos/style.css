@@ -5,6 +5,10 @@
 body {
     background-color: rgb(213, 193, 231);
 }
+
+img.lado {
+    float: right;
+}
 main {
     background-color: cornsilk;
     width: 500px;
